@@ -6,7 +6,7 @@
 
 This folder contains 3 jupyter notebooks and external links containing projects to exemplify my skills related to $Data$ $analysis$, $Data$ $science$ and $Quantitative$ $analysis$. Following are their hyperlinks and brief description.
 
-1. [Google data analytics capstone project](https://github.com/SaptarshiBiswaa/google-data-analytics-capstone-project-1) ([certificate](https://www.coursera.org/account/accomplishments/verify/ORHFBHSEKEV6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
+1. [Google data analytics capstone project](https://github.com/Saptarshi531/google-data-analytics) ([certificate](https://www.coursera.org/account/accomplishments/verify/ORHFBHSEKEV6?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course))
 
 Executed an end-to-end case study by cleaning, processing, analyzing more than 1 GB data, finding key trends along a given business objective, and creating a polished report and visualization to present to stakeholders.
 
