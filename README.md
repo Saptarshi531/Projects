@@ -10,15 +10,15 @@ This folder contains 3 jupyter notebooks and external links containing projects 
 
 Executed an end-to-end case study by cleaning, processing, analyzing more than 1 GB data, finding key trends along a given business objective, and creating a polished report and visualization to present to stakeholders.
 
-2. [ML code sample.ipynb](https://github.com/SaptarshiBiswaa/sample_projects/blob/main/ML%20code%20sample.ipynb):
+2. [ML code sample.ipynb](https://github.com/Saptarshi531/Projects/blob/main/ML%20code%20sample.ipynb):
 
 Here I compare two **machine learning models**, $Random$ $Forest$ (ran over $scikit-learn$) and $Dense$ $Neural$ $Network$ (on $Keras$), and find their performance on a classification problem. Appropriate tuning of hyperparameters and layer configurations is done to achieve high predictive ability.
 
-3. [python_code_sample.ipynb](https://github.com/SaptarshiBiswaa/sample_projects/blob/main/Python_code_sample.ipynb):
+3. [python_code_sample.ipynb](https://github.com/Saptarshi531/Projects/blob/main/Python_code_sample.ipynb):
 
 This is a snapshot of the level of intricate **Python coding** I use in my PhD research related to quantum physics problems. The sample code above simulates a twisted bilayer superconductor and determines its quantum energy states. The example shows extensive use of Python packages like $numpy$, $scipy$, plotting, and visualizations using $matplotlib$, as well as foundational coding concepts. *"deltas.npy"* is an input file for this code.
 
-4. [sql-code-sample.ipynb](https://github.com/SaptarshiBiswaa/sample_projects/blob/main/sql-code-sample.ipynb):
+4. [sql-code-sample.ipynb](https://github.com/Saptarshi531/Projects/blob/main/sql-code-sample.ipynb):
 
 Here I use **SQL** to query a public dataset on $Bigquery$ from an international census to analyze the growth of female population in India.
 
